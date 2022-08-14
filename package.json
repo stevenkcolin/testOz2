@@ -22,7 +22,7 @@
     "@openzeppelin/test-environment": "^0.1.4"
   },
   "devDependencies": {
-    "@openzeppelin/contracts": "^3.0.1",
+    "@openzeppelin/contracts": "^4.7.2",
     "chai": "^4.2.0",
     "mocha": "^7.2.0"
   }
